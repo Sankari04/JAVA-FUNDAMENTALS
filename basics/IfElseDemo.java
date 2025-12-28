@@ -1,4 +1,4 @@
-public class ifelse {
+public class IfElseDemo{
     public static void main(String[] args){
         int mark=50,mark1=51;
 
