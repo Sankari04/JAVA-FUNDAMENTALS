@@ -1,4 +1,4 @@
-public class count_digits{
+public class CountDigits{
     public static void main(String[] args){
          int num=1337,count=0;
         while(num>=0)
