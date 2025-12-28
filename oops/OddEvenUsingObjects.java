@@ -8,7 +8,7 @@ class find{
     }
 };
 
-public class objects
+public class OddEvenUsingObjects
 {
 	public static void main(String[] args) {
 		
@@ -21,3 +21,4 @@ public class objects
 		
 	}
 }
+
